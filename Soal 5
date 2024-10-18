@@ -1,3 +1,14 @@
 5. Apa perbedaan antara pengujian otomatis dan pengujian manual? Kapan Anda harus 
     menggunakan pengujian otomatis daripada pengujian manual?
+    Pengujian manual adalah proses mengeksekusi test case secara langsung tanpa bantuan alat otomatis. 
+    Pengujian manual biasanya memakan waktu lebih lama dan rentan terhadap kesalahan manusia.  
+    Sedangkan pengujian otomatis adalah menguji perangkat lunak menggunakan alat atau kode program. 
+    Pengujian oomatis enderng lebih cepat dan tes dapat dijalankan kapan pun.
+
+   • Pengujian Manual dapat digunakan saat menguji tampilan dan bagaimana penggunaan aplikasi (UI/UX), 
+    pengujian manual juga dapat dilakukan untuk pengujian satu kali dan terdapat sedikit perubahan untuk menghemat waktu. 
+
+    • Pengujian Otomatis dapat digunakan untuk pengujian regresi yang membutuhkan pengujian berulang. Pengujian otomatis 
+    dapat dilakukan untuk pengujian paralel untuk menjalankan beberapa pengujian diberbagai tempat pada saat yang sama untuk 
+    mempercepat pengujian.
 
