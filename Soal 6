@@ -1,1 +1,22 @@
 6. Gambarkan aliran kerja atau proses yang akan Anda ikuti untuk mengotomatisasi pengujian menggunakan alat seperti Selenium.
+  Berikut deskripsi aliran kerja untuk otomatisasi pengujian dengan Selinium:
+  •	Rencanakan Pengujian (Test Plan)
+    Menentukan cakupan pengujian pada aplikasi serta menyusun test case
+  •	Setup Selenium dan lingkungan pengujian
+    Instal Selenium dan konfigurasikan driver browser. Selain itu, memilih bahasa pemrograman yang akan digunakan.
+  •	Indentifikasi Test Case
+    Pilih test case yang akan diotomatisasi. Tentukan test case untuk pengujian regresi, 
+    yaitu test case yang menguji fungsionalitas lama untuk memastikan tidak ada yang rusak.
+  •	Tulis script pengujian dengan selinium
+    Buat skrip pengujian otomatis menggunakan Selenium WebDriver. 
+  •	jalankan pengujian Otomatis
+    Eksekusi skrip otomatis untuk menguji aplikasi. 
+  •	Periksa hasil pengujian
+    Verifikasi apakah test case berhasil atau gagal dengan menggunakan assertions
+  •	Buat log dan laporan
+     Buat log dan laporan dari hasil pengujian, termasuk pengujian regresi.
+  •	Perbarui script pengujian
+    Perbarui script pengujian otomatis setiap kali ada perubahan pada aplikas
+  •	Integrasikan dengan CI/CD
+    Integrasikan pengujian otomatis dengan pipeline CI/CD agar pengujian berjalan otomatis setiap kali ada perubahan kode.
+
