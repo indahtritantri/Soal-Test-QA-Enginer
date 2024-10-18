@@ -1,1 +1,8 @@
 2. Jelaskan perbedaan antara pengujian fungsional dan pengujian non-fungsional dalamkonteks QA.
+    •	Pengujian Fungsional
+      Pengujian fungsional adalah jenis pengujian untuk memeriksa sistem dapat berfungsi sebagaimana mestinya. 
+      Seperti menguji fitur dan fungsi software, memeriksa input, pengujian UI, API, serta interaksi sistem.
+    •	Pengujian Non-fungsional
+      Pengujian non-fungsional adalah pengujian untuk memeriksa kinerja dari aplikasi, keamanan sistem, usability, 
+      serta keandalan pada perangkat lunak apakah dmemenuhi standar yang diinginkan.
+
