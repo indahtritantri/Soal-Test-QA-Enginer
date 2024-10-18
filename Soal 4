@@ -1,1 +1,6 @@
-4. Apa yang dimaksud dengan uji regresi? Mengapa uji regresi penting dalampengujianperangkat lunak?
+4. Apa yang dimaksud dengan uji regresi? Mengapa uji regresi penting dalam pengujianperangkat lunak?
+Pengujian regresia adalah pengujian kembali test case yang sudah ada untuk memastikan bahwa perubahan dan pembaharuan tidak mengganggu 
+serta tidak merusak ftur yang sudah ada sebelumnya. Pengujian regresi ini penting untuk mencegah bug baru karena setiap ada perubahan pada 
+aplikasi maka resiko munculnya masalah baru di area lain dapat terjadi, maka pengujian regeresi dilakukan untuk memverifikasi bahwa perangkat 
+lunak tetap bekerja dengan benar setelah adanya perubahan.
+
