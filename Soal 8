@@ -1,0 +1,11 @@
+8.	Apa yang dimaksud dengan "bug tracking system" dan sebutkan beberapa alat umum yang digunakan untuk melacak dan mengelola bug dalam perangkat lunak.
+    Bug Tracking Sytem merupakan merupakan sistem, program atau aplikasi yang memudahkan proses melacak kesalahan pada sistem sehingga memungkinkan 
+    anggota tim proyek untuk melaporkan, mengelola, dan menganalisa laporan kesalahan (Bug report).
+    
+    Fitur yang digunakan untuk melacak bug:    
+    1)	YouTrack
+    2)	Zoho BugTracker
+    3)	JIRA
+    4)	Redmine
+    5)	Bugzilla
+    6)	MantisBT (Mantis Bug Tracker)
