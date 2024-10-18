@@ -1,1 +1,9 @@
 1.	Apa itu QA (Quality Assurance) dan apa peran utama seorang QA Engineer dalamsiklus pengembangan perangkat lunak?
+    QA adalah proses untuk memastikan kualitas dari software atau aplikasi yang dibangun dapat bekerja sesuai dengan yang diharapkan 
+    dan tidak adanya kesalahan atau bug. Terdapat beberapa peran utama seorang QA Enginering adalah sebagai berikut:
+        •	Merencanakan pengujian (Test Planing), seperti memilih jenis pengujian serta menentukan metode atau 
+          tools yang akan digunakan.
+        •	Mendesain Test Case, membuat test case berdasarkan spesifikasi software dan skenario yang diharapkan.
+        •	Melakukan pengujian sesuai dengan test case yang telah dibuat.
+        •	Mengidentifikasi bug atau kesalahan kemudian membuat dokumentasi.
+
