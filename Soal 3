@@ -1,4 +1,5 @@
-3. Bagaimana Anda akan merencanakan dan melakukan pengujian manual untuk aplikasi web e-commerce? Berikan langkah-langkah utama dalam proses ini.
+3. Bagaimana Anda akan merencanakan dan melakukan pengujian manual untuk aplikasi web e-commerce? 
+    Berikan langkah-langkah utama dalam proses ini.
     Langkah-langkah pengujian manual untuk aplikasi web e-commerce:
     (1)	Memahami spesifikasi serta fitur aplikasi, memahamin juga bagaimana penggunaan aplikasi tersebut.
     (2)	Menyusun Test Plan dengan menentukan fitur-fitur utama, menentukan jenis pengujian, menentukan tools yang akan digunakan, 
@@ -7,7 +8,9 @@
     (4)	Melakukan pengujian fungsional 
     (5)	Melakukan pengujian non-fungsional, seperti performance testing, security testing, dan usability testing.
     (6)	Membuat laporan bug atau masalah yang ditemukan, pelaporan ini dapat dilakukan menggunakan tools seperti JIRA atau Trello.
-    (7)	Setelah bug diperbaik langkah selanjutnya adalah melakukan pengujian regresi untuk memastikan perbaikan tidak merusak fitur lain.
-    (8)	Langkah terakhir adalah User Acceptance Testing (UAT) yaitu pengujian yang melibatkan user untuk memastikan aplikasi berjalan sesuai yang diharapkan.
+    (7)	Setelah bug diperbaik langkah selanjutnya adalah melakukan pengujian regresi untuk memastikan perbaikan tidak merusak 
+        fitur lain.
+    (8)	Langkah terakhir adalah User Acceptance Testing (UAT) yaitu pengujian yang melibatkan user untuk memastikan aplikasi 
+        berjalan sesuai yang diharapkan.
     (9)	Setelah seluruh langkah pengujian selesai yaitu membuat dokumentasi laporan pengujian.
 
