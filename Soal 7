@@ -1,4 +1,4 @@
-7.	Apa itu kerangka kerja pengujian (testing framework) dalam pengujian otomatis, danbagaimana kerangka kerja ini membantu dalam pengujian perangkat lunak?
+7. Apa itu kerangka kerja pengujian (testing framework) dalam pengujian otomatis, danbagaimana kerangka kerja ini membantu dalam pengujian perangkat lunak?
     Testing Framework adalah kerangka kerja yang dirancang untuk membantu menguji otomatis aplikasi. Framework ini meyediakan aturan, pedoman, dan tools untuk 
     mengatur pengujian agar lebih efisien. Framework juga membantu QA dalam pengujan agar lebih terstruktur.
     
