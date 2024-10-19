@@ -1,0 +1,32 @@
+10.	Anda sedang menguji aplikasi perbankan online. Bagaimana Anda akan menguji keamanan aplikasi ini? Berikan beberapa 
+    contoh uji keamanan yang akan Anda lakukan.
+    1)	Uji Otentikasi dan Otorisasi
+        •	Pengujian brute-force login: Coba akses akun pengguna dengan mencoba berbagai kombinasi username dan password 
+          berulang kali untuk memastikan ada perlindungan terhadap brute-force attack, seperti memblokir akun setelah 
+          beberapa upaya login yang gagal.
+        •	Cek password kuat: Pastikan aplikasi mewajibkan pengguna menggunakan password yang kuat (mengandung huruf besar, 
+          kecil, angka, dan karakter khusus).
+        •	Mekanisme logout otomatis: Uji apakah sesi pengguna berakhir secara otomatis setelah periode inaktivitas untuk 
+          mencegah akses tidak sah.
+    2)	Uji Kerahasiaan Data (Confidentiality)
+        •	Enkripsi data sensitif: Periksa apakah data sensitif seperti nomor kartu kredit, saldo, dan riwayat transaksi 
+          terenkripsi, baik saat penyimpanan (at rest) maupun saat transmisi (in transit).
+        •	Uji akses yang tidak sah ke data: Coba mengakses data sensitif tanpa izin, baik melalui URL yang di-manipulasi 
+          atau dengan mencoba akses langsung ke API back-end.
+    3)	Uji Manajemen Sesi (Session Management)
+        •	Uji validasi token sesi: Pastikan token sesi (seperti cookies) diacak dan aman dari manipulasi atau pencurian 
+          (hijacking).
+        •	Pengujian logout: Pastikan setelah pengguna logout, token sesi dihapus sehingga tidak bisa digunakan lagi 
+          untuk mengakses aplikasi.
+        •	Uji pembaruan token: Verifikasi bahwa token sesi diperbarui secara aman setelah login ulang atau tindakan 
+          sensitif seperti reset password.
+    4)	Uji Keamanan Multi-Faktor (MFA)
+        •	Menguji multi-factor authentication (MFA): Uji apakah aplikasi mendukung dan mewajibkan pengguna untuk 
+          menggunakan otentikasi dua faktor (misalnya, kode OTP yang dikirim via SMS atau aplikasi otentikasi) 
+          untuk tindakan sensitif seperti login atau transfer dana
+    5)	Uji Penetrasi (Penetration Testing)
+        •	SQL Injection: Uji apakah aplikasi rentan terhadap serangan SQL Injection, di mana penyerang bisa memasukkan 
+          perintah SQL ke dalam formulir input untuk mengeksekusi query database yang tidak sah.
+        •	Cross-Site Request Forgery (CSRF): Coba serangan CSRF untuk melihat apakah aplikasi bisa memproses permintaan 
+          berbahaya yang dibuat oleh pihak ketiga atas nama pengguna yang sah.
+
